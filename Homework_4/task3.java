@@ -29,8 +29,7 @@ public class task3 {
             System.out.print("Введите r для отмены последней операции другой символ для выхода: ");
             String q = console.next();
             if (!q.equals("r"))
-                System.exit(0);
-            ;
+                return;
         }
     }
 
