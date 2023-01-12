@@ -1,0 +1,14 @@
+sm623456/Samsung Chromebook/11.6/Black/Celeron N3060/2/16/141
+lnv62462/Lenovo IdeaPad 3 81X800ENUS/15.6/Almond/Core i3/20/256/392
+lnv9874/Lenovo  IdeaPad 1 Laptop/15.6/Almond/Athlon/12/1000/319
+cr521356/Acer Aspire 5/15.6/Silver/Core i5/8/256/349
+cr732562/Acer Nitro 5/17.3/Black/Core I7 11800H/16/1000/889
+mm752567/MSI Katana GF76 12UE-026/17.3/Black/Core i7/16/512/1266
+lg5762385/LG 14T90P-K.AAG9U1/14/Green/Core i7 Family/16/1000/1400
+a5342525/ASUS TUF Gaming F15/15.6/Bonfire Black/Core i5/8/512/649
+a8695046/ASUS L210/11.6/Black/Celeron N4020/4/64/145
+mm58357/MSI Pulse GL66 12UEK-070/15.6/Black/Core i7/16/512/1834
+a57243576/ASUS VivoBook Pro 16X/16/Black/Ryzen 7/16/1000/1099
+a759031257/ASUS VivoBook Pro 16X OLED/16/Gray/Ryzen 9/32/1000/1649
+hp8523157/HP Chromebook 14a-na0031wm/14/Silver/Celeron N/4/64/158
+ll573751/Dell Inspiron 15 3511 Laptop/15.6/Carbon Black/Core i5/16/1000/557
