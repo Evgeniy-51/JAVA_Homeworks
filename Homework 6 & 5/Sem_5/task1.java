@@ -1,4 +1,6 @@
-import java.util.ArrayList;
+// Реализуйте структуру телефонной книги с помощью HashMap, учитывая, что 1 человек может иметь несколько телефонов.
+
+mport java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -31,7 +33,7 @@ public class task1 {
                 "2 - добавить запись\n" +
                 ".. либо другой символ для выхода";
         String out2 = "Введите имя";
-        String out3 = "Введите номер телефона или <q> для завершеня ввода";
+        String out3 = "Введите номер телефона или <q> для завершения ввода";
 
         switch (out) {
             case "out1":
